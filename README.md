@@ -26,5 +26,7 @@ One orpheus pico: 10€ Required: No
 M3x16mm screws (6x): 3€: Required: No
 
 119 blank keycaps: 29,90 €: Required: Yes Link:https://www.caseking.de/ducky-blank-white-pbt-set-mda-profile-133-keycaps-ansi-us-layout-ansi-us-layout/GAKC-530.html?gad_source=1&gad_campaignid=21451873868&gbraid=0AAAAABRBl3rp2MxtPfOOeLMF1GxUSPO_i&gclid=CjwKCAjwvuLDBhAOEiwAPtF0Vpwwld4mDaxte3PK0Otz3Z-v6C9MTZain8aGXCld9Vo5LzLQT2UPhRoCZhEQAvD_BwE
+
 3d printing Filament: 20€ Required Yes
+
 Pcb: / Required: Yes
