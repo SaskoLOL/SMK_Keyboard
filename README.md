@@ -16,7 +16,9 @@ The PCB consists only of 2 layers:
 <img width="1032" height="344" alt="image" src="https://github.com/user-attachments/assets/c8097aa2-31ac-4827-a051-7e5407fe51bb" />
 Firmware:
 The firmware was made in VS code with Pyhton
+
 BOM:
+
 119 cherry mx switches cost: 52.80€ Required: Yes Link: https://www.reichelt.at/at/de/shop/produkt/cherry_mx_blue_-_tastenmodul_-_fixierzapfen-369269?PROVID=2807&gad_source=1&gad_campaignid=21422869099&gbraid=0AAAAADwnxtat6u9lsAHToV6GKxf7BibTs&gclid=CjwKCAjwvuLDBhAOEiwAPtF0VhZ3tHRP4ssGiYqpavdrLBmLvci3DstJQDXffXF_gPWklEFFPWfM4RoCDl0QAvD_BwE
 
 One orpheus pico: 10€ Required: No
