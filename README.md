@@ -1,5 +1,5 @@
 # SMK_Keyboard
-This is a cool 119 key mechanical keyboard.
+This is a cool 119 key mechanical keyboard. It has 9 macro keys, 4 on top and 5 on the left.
 
 #CAD
 I modeled everything in fusion 360
