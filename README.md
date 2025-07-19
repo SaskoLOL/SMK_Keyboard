@@ -14,6 +14,9 @@ The schmetick consists of 119 switches and diodes and uses a rasbarry pi pico (o
 <img width="578" height="400" alt="image" src="https://github.com/user-attachments/assets/60c3dabd-e30f-4e7f-85ad-a2eda640480c" />
 The PCB consists only of 2 layers:
 <img width="1032" height="344" alt="image" src="https://github.com/user-attachments/assets/c8097aa2-31ac-4827-a051-7e5407fe51bb" />
+UPDATED PICTURE (because I had the thing mirrored and it looked like the screw holes would go trough the pcb and top case)
+<img width="993" height="411" alt="image" src="https://github.com/user-attachments/assets/ed92d788-b625-451f-ada9-25bb8add28a5" />
+
 Firmware:
 The firmware was made in VS code with Pyhton
 
