@@ -16,6 +16,9 @@ The PCB consists only of 2 layers:
 <img width="1032" height="344" alt="image" src="https://github.com/user-attachments/assets/c8097aa2-31ac-4827-a051-7e5407fe51bb" />
 UPDATED PICTURE (because I had the thing mirrored and it looked like the screw holes would go trough the pcb and top case)
 <img width="993" height="411" alt="image" src="https://github.com/user-attachments/assets/ed92d788-b625-451f-ada9-25bb8add28a5" />
+UPDATE: made the usb space look alot better:
+<img width="1134" height="814" alt="image" src="https://github.com/user-attachments/assets/526fa47c-cb8a-4ac0-92d7-9fa00a5c8548" />
+
 
 Firmware:
 The firmware was made in VS code with Pyhton
