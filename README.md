@@ -50,3 +50,4 @@ M3x16mm screws (6x): 3€: Required: No
 3d printing Filament: 20€ Required Yes
 
 Pcb: / Required: Yes
+Total cost: 130$
